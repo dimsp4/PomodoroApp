@@ -1,0 +1,2 @@
+export const CHANGE_FOCUS = 'CHANGE_FOCUS';
+export const CHANGE_MINUTE = 'CHANGE_MINUTE';
